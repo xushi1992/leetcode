@@ -1,0 +1,2 @@
+# leetcode
+basic algorithm 
